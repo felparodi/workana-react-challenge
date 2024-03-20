@@ -4,7 +4,7 @@ export const namesSlice = createSlice({
   name: 'names',
   initialState: {
     value: {
-      firstName: 'Braking',
+      firstName: 'Breaking',
       lastName: 'Bad'
     }
   },
